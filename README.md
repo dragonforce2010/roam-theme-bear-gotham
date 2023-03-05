@@ -1,5 +1,6 @@
-# Power Theme Bear Gotham
+# Roam Theme - Bear Gotham
 
 This Extension gives you a beautiful theme as below
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FExploreSpace%2Fj2P_TbYQh2.png?alt=media&token=f2faab2b-6303-440e-a7ac-ec334f261810)
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FExploreSpace%2FNVPBDB7Owp.png?alt=media&token=74b37207-a3eb-4c8e-8dff-5f4e0ff777bb)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FExploreSpace%2Flt9UIwgy87.png?alt=media&token=a44e7165-9dfa-471b-9be4-cc8591b8964f)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FExploreSpace%2FCTU7BcTsAD.png?alt=media&token=603bf763-a1dc-43f1-a12c-771dd723ca18)
+
