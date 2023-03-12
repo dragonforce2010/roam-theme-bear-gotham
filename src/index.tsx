@@ -3,6 +3,7 @@ import './gotham.css'
 
 
 function onload() {
+  document.body.className = 'bear-gotham'
 }
 
 function onunload() {
